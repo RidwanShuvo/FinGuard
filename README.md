@@ -1,11 +1,11 @@
 # FinGuard: Personal Finance Dashboard
 
 ## 📖 Overview
-**FinGuard** is a personal finance dashboard which basically keeps track about your financial things like income,expenditure and other financial goals.It empowers users to control their finances.
+**FinGuard** is a personal finance dashboard which basically keeps track about your financial things like incomes,expenditures and other financial goals.It empowers users to control their finances.FinGuard categorizes the balance sheet according to incomes,expenses etc. which is easy to understand the finance dashboard.
 
 ---
 
-## Table of Contents
+##📝Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
@@ -23,7 +23,7 @@
 
 ---
 ## Introduction
-**FinGuard** is built to provide users with an easy way to manage their personal finances. It consolidates all financial data in one place, helping users make informed decisions about their spending habits and savings.
+**FinGuard** is built to provide users with an easy way to manage their personal finances. It consolidates all financial data in one place, helping users make informed decisions about their spending habits and savings and we can easily know what amount of moneys are available.
 
 ---
 
