@@ -1,33 +1,69 @@
 <p align="center">
-  <img src="HSTU_Logo.png" alt="HSTU Logo" width="250" height="300">
+  <img src="./HSTU_Logo.png" alt="HSTU Logo" width="150">
 </p>
 
-<h3 align="center">
-  Hajee Mohammad Danesh Science and Technology University,Dinajpur-5200.
-</h3>
-<h3 align="center">
-<b></b>Project Name: FinGuard:Personal Finance Dashboard<b></b>
-</h3>
+<h2 align="center" style="color:#2c3e50; font-family:Arial, sans-serif;">
+  <strong>Hajee Mohammad Danesh Science and Technology University</strong>
+</h2>
 
-<h3 align="center">
-  Course Title: Software Engineering
-</h3>
+<h2 align="center" style="color:#34495e; font-family:Georgia, serif;">
+  Dinajpur-5200
+</h2>
 
-<h3 align="center">
-  Course Code: CSE 305
-</h3>
-<br>
-<h1 align="center">Submitted By</h1>
+---
 
- <p align="center">Md.Ridwanur Rahman Shuvo<br>Student ID: 2102046<br>Level: 3 Semester: I<br>Department of Computer Science and Engineering</p>
- <br>
+<h2 align="center" style="color:#16a085;">
+  <strong>Course Information</strong>
+</h2>
 
-<h1 align="center">Submitted To</h1>
+<p align="center" style="font-size:16px; color:#34495e;">
+  <strong>Course Title:</strong> Software Engineering  
+  <br>
+  <strong>Course Code:</strong> CSE 305  
+</p>
 
- <p align="center">Pankaj Bhowmik<br>Lecturer<br>Department of Computer Science and Engineering</p>
+<h2 align="center" style="color:#2980b9;">
+  <strong>Project Title :</strong>
+</h2>
 
+<h1 align="center" style="color:#8e44ad;">
+  <strong>FinGuard: Personal Finance Dashboard</strong>
+</h1>
 
-<br><br><br>
+---
+
+<h2 align="center" style="color:#16a085;">
+  <strong>Submitted By</strong>
+</h2>
+
+<p align="center" style="font-size:16px; color:#34495e;">
+  <strong>Name:</strong> Md. Ridwanur Rahman Shuvo  
+  <br>
+  <strong>Student ID:</strong> 2102046  
+  <br>
+  <strong>Level:</strong> 3  
+  <br>
+  <strong>Semester:</strong> I  
+  <br>
+  <strong>Department:</strong> Computer Science and Engineering  
+</p>
+
+---
+
+<h2 align="center" style="color:#16a085;">
+  <strong>Submitted To</strong>
+</h2>
+
+<p align="center" style="font-size:16px; color:#34495e;">
+  <strong>Name:</strong> Pankaj Bhowmik  
+  <br>
+  <strong>Designation:</strong> Lecturer  
+  <br>
+  <strong>Department:</strong> Computer Science and Engineering  
+</p>
+
+---
+
 
 # FinGuard: Personal Finance Dashboard
 
